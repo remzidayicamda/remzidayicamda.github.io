@@ -16,17 +16,11 @@
 .ilgilendigim-alanlar {
     clear: both;
     margin-top: 48%;
-    margin-left: 70px;
-    margin-right: 70px;
 }
 
 .ilgilendigim-alanlar img {
     width: 125px;
     margin: 15px;
-}
-
-.ilgilendigim-alanlar h3 {
-    text-align: center;
 }
 
 .html {
