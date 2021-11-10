@@ -1,0 +1,58 @@
+.container {
+    margin-top: 50px;
+}
+
+.about .text {
+    float: left;
+    width: 45%;
+    margin-top: 25px;
+}
+
+.about img {
+    width: 50%;
+    float: right;
+}
+
+.ilgilendigim-alanlar {
+    clear: both;
+    margin-top: 48%;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.ilgilendigim-alanlar img {
+    width: 125px;
+    margin: 15px;
+}
+
+.ilgilendigim-alanlar h3 {
+    text-align: center;
+}
+
+.html {
+    animation: zoomIn;
+}
+
+.css {
+    animation: zoomIn;
+}
+
+.js {
+    animation: zoomIn;
+}
+
+.node {
+    animation: zoomIn;
+}
+
+.py {
+    animation: zoomIn;
+}
+
+.django {
+    animation: zoomIn;
+}
+
+.footer {
+    width: 100%;
+}
