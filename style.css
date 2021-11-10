@@ -56,3 +56,20 @@
 .footer {
     width: 100%;
 }
+
+@media screen and (max-width:575px) {
+    .about .text {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .about img {
+        width: 100%;
+    }
+
+    .ilgilendigim-alanlar {
+        margin-top: 50%;
+        text-align: center;
+    }
+
+}
